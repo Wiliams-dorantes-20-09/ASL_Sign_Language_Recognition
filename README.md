@@ -2,7 +2,7 @@
 
 This project aims to build a machine learning model that recognizes American Sign Language (ASL) hand signs using Convolutional Neural Networks (CNN). The model is trained using images captured from a webcam and uses TensorFlow for building the CNN model. It also utilizes data augmentation techniques to improve the model's robustness and generalization.
 
-![ASL](img/asl.png)
+![ASL](img/ASL.png)
 
 ## Project Structure
 
